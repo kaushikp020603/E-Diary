@@ -1,6 +1,6 @@
 # E-Diary: Your Digital Companion for Effortless Journaling 
 <p align="center">
-  <img src="" alt="SehatSaathi" width="300" height="300">
+  <img src="1.gif" alt="SehatSaathi" width="300" height="300">
 </p>
 
 <h1 align="center">
