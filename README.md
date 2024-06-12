@@ -13,42 +13,36 @@
 
 ## Problem Identified 🚑
 
-The existing doctor appointment systems lack efficiency and user-friendly interfaces, leading to inconvenience for patients and inefficiencies in scheduling for healthcare providers. Moreover, traditional appointment systems do not utilize advanced technologies like machine learning for disease prediction, resulting in missed opportunities for early diagnosis and treatment. There is a need for a modernized appointment system that integrates machine learning algorithms for disease prediction, provides intuitive interfaces for users, and offers efficient scheduling mechanisms for healthcare providers. This project addresses these shortcomings by developing a comprehensive solution that revolutionizes the doctor appointment process while leveraging cutting-edge technology for improved healthcare outcomes.
+Traditional journaling and record-keeping methods can be cumbersome and inefficient, leading to disorganization and difficulty in accessing important personal and academic information. Moreover, conventional diary systems lack the integration of modern technologies that could enhance the user experience and provide valuable insights. There is a need for a streamlined and intelligent system that offers an intuitive interface, efficient organization, and easy access to digital records. This project addresses these issues by developing a comprehensive E-Diary solution that revolutionizes personal and academic record management, leveraging advanced technology for seamless journaling and effective information retrieval.
 
-## 🚀 Proposed Solution: Introducing SehatSathi!
+## 🚀 Proposed Solution: Introducing E-Diary!
 
-Welcome to the future of healthcare! Say goodbye to traditional appointment systems and hello to SehatSathi, your intelligent healthcare companion.
+Welcome to the future of journaling! Say goodbye to traditional diaries and hello to E-Diary, your intelligent companion for seamless personal and academic record management.
 
-### What is SehatSathi?
+### What is E-Diary?
 
-SehatSathi is an advanced doctor appointment system that revolutionizes healthcare accessibility and efficiency. It integrates cutting-edge technology, including machine learning for disease prediction and doctor availability check using facial recognition, to provide a seamless and personalized healthcare experience.
+E-Diary is an innovative digital journaling system that transforms the way you manage personal and academic records. By integrating advanced technology, E-Diary offers seamless organization, easy access to your digital chronicles, and an intuitive user interface. Say goodbye to traditional diaries and experience the future of efficient and intelligent journaling.
 
 ### How Does It Work?
 
-SehatSathi utilizes sophisticated machine learning algorithms to predict potential diseases based on reported symptoms, empowering users to take proactive steps towards their health. Additionally, it employs facial recognition technology to streamline doctor availability checks, ensuring efficient scheduling practices.
+E-Diary leverages advanced technology to offer a seamless and efficient journaling experience. Users can effortlessly record their personal and academic notes, which are securely stored and easily accessible. The system provides intuitive organization tools and smart search capabilities, ensuring that you can quickly find and manage your digital entries. Whether you're tracking daily activities, academic progress, or personal reflections, E-Diary simplifies and enhances the record-keeping process.
 
 ### Features Tailored For You:
 
-- **Disease Prediction:** Receive accurate predictions of potential diseases based on reported symptoms, guiding proactive healthcare decisions.
-- **Doctor Availability Check:** Seamlessly assess doctor availability using facial recognition technology, optimizing appointment scheduling and reducing waiting times.
-- **Multi-user Login:** Enjoy a tailored experience with user-specific functionalities for administrators, patients, and doctors.
-- **Chatbot Integration:** Receive real-time assistance and guidance through a user-friendly chatbot, making the appointment booking process intuitive and efficient.
+- **Smart Organization:** Effortlessly organize personal and academic notes with intuitive categorization and tagging features, ensuring easy access and management of your digital entries.
+- **Advanced Search:** Quickly find specific entries or information using powerful search capabilities, making it simple to retrieve past records.
+- **Multi-user Access:** Customize the experience for different user roles, including students, educators, and personal users, each with specific functionalities tailored to their needs.
 
 ### Tech Stack 🛠️
 
 This section lists major frameworks and libraries used in the project.
 
-* ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-* ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-* ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-* ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-* ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-* ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-* ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-* ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-* ![EmailJS](https://img.shields.io/badge/EmailJS-FFFFFF?style=for-the-badge&logo=emailjs&logoColor=black)
-* ![Collect.chat](https://img.shields.io/badge/Collect.chat-42C3D7?style=for-the-badge&logo=collect-dot-chat&logoColor=white)
+* ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+* ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Installation / Usage
 
