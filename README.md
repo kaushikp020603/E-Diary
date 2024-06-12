@@ -44,9 +44,7 @@ This section lists major frameworks and libraries used in the project.
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### Installation / Usage
 
-Will add it soon after completion of the entire project
 <!-- CONTRIBUTING -->
 ## Contributing 🤝
 
